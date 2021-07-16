@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pessoamaicon
 - 👀 I’m interested in Programming
-- 🌱 I’m currently C, C++, C#, Python, Java, JavaScript, HTML/CSS
+- 🌱 I’m currently C, C++, C#, Python, Java, JavaScript, HTML/CSS, Latex
 - 📫 How to reach me in pessoa.maicon@outlook.com
 
 <!---
